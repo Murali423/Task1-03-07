@@ -1,0 +1,180 @@
+[INFO]: 2022-07-02 23:54:04,086 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-02 23:54:04,086 : root : Enter the function which reverse list
+[DEBUG]: 2022-07-02 23:54:04,086 : root : Result of the function given below
+[INFO]: 2022-07-02 23:54:04,086 : root : [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+[INFO]: 2022-07-02 23:58:53,217 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-02 23:58:53,217 : root : Enter the function which reverse list
+[DEBUG]: 2022-07-02 23:58:53,217 : root : Result of the function given below
+[INFO]: 2022-07-02 23:58:53,217 : root : [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+[INFO]: 2022-07-02 23:58:53,217 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-02 23:58:53,217 : root : Enter the function which gives sum of list elements
+[DEBUG]: 2022-07-02 23:58:53,217 : root : Result of the function given below
+[INFO]: 2022-07-02 23:58:53,217 : root : 215
+[INFO]: 2022-07-03 00:02:47,860 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 00:02:47,860 : root : Enter the function which reverse list
+[DEBUG]: 2022-07-03 00:02:47,860 : root : Result of the function given below
+[INFO]: 2022-07-03 00:02:47,860 : root : [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+[INFO]: 2022-07-03 00:02:47,860 : root : Enter the function which extract only lists
+[DEBUG]: 2022-07-03 00:02:47,860 : root : Result of the function given below
+[INFO]: 2022-07-03 00:02:47,860 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 00:02:47,860 : root : Enter the function which gives sum of list elements
+[DEBUG]: 2022-07-03 00:02:47,860 : root : Result of the function given below
+[INFO]: 2022-07-03 00:02:47,860 : root : 215
+[INFO]: 2022-07-03 00:04:05,760 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 00:04:05,760 : root : Enter the function which reverse list
+[DEBUG]: 2022-07-03 00:04:05,760 : root : Result of the function given below
+[INFO]: 2022-07-03 00:04:05,760 : root : [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+[INFO]: 2022-07-03 00:04:05,760 : root : Enter the function which extract only lists
+[DEBUG]: 2022-07-03 00:04:05,760 : root : Result of the function given below
+[DEBUG]: 2022-07-03 00:04:05,760 : root : [23, 456, 67, 8, 78, 78]
+[DEBUG]: 2022-07-03 00:04:05,760 : root : [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9]
+[INFO]: 2022-07-03 00:04:05,760 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 00:04:05,760 : root : Enter the function which gives sum of list elements
+[DEBUG]: 2022-07-03 00:04:05,760 : root : Result of the function given below
+[INFO]: 2022-07-03 00:04:05,760 : root : 215
+[INFO]: 2022-07-03 00:04:27,783 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 00:04:27,783 : root : Enter the function which reverse list
+[DEBUG]: 2022-07-03 00:04:27,783 : root : Result of the function given below
+[INFO]: 2022-07-03 00:04:27,783 : root : [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+[INFO]: 2022-07-03 00:04:27,783 : root : Enter the function which extract only lists
+[DEBUG]: 2022-07-03 00:04:27,783 : root : Result of the function given below
+[DEBUG]: 2022-07-03 00:04:27,783 : root : [[23, 456, 67, 8, 78, 78]]
+[DEBUG]: 2022-07-03 00:04:27,783 : root : [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]
+[INFO]: 2022-07-03 00:04:27,783 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 00:04:27,783 : root : Enter the function which gives sum of list elements
+[DEBUG]: 2022-07-03 00:04:27,799 : root : Result of the function given below
+[INFO]: 2022-07-03 00:04:27,799 : root : 215
+[INFO]: 2022-07-03 12:52:52,223 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 12:52:52,223 : root : Enter the function which reverse list
+[DEBUG]: 2022-07-03 12:52:52,223 : root : Result of the function given below
+[INFO]: 2022-07-03 12:52:52,223 : root : [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+[INFO]: 2022-07-03 12:52:52,223 : root : Enter the function which extract only lists
+[DEBUG]: 2022-07-03 12:52:52,223 : root : Result of the function given below
+[DEBUG]: 2022-07-03 12:52:52,223 : root : [[23, 456, 67, 8, 78, 78]]
+[DEBUG]: 2022-07-03 12:52:52,223 : root : [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]
+[INFO]: 2022-07-03 12:52:52,223 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 12:52:52,223 : root : Enter the function which gives sum of list elements
+[DEBUG]: 2022-07-03 12:52:52,223 : root : Result of the function given below
+[INFO]: 2022-07-03 12:52:52,223 : root : 215
+[INFO]: 2022-07-03 12:53:40,030 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 12:53:40,030 : root : Enter the function which reverse list
+[DEBUG]: 2022-07-03 12:53:40,030 : root : Result of the function given below
+[INFO]: 2022-07-03 12:53:40,030 : root : [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+[INFO]: 2022-07-03 12:53:40,030 : root : Enter the function which extract only lists
+[DEBUG]: 2022-07-03 12:53:40,030 : root : Result of the function given below
+[DEBUG]: 2022-07-03 12:53:40,030 : root : [[23, 456, 67, 8, 78, 78]]
+[DEBUG]: 2022-07-03 12:53:40,030 : root : [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]
+[INFO]: 2022-07-03 12:53:40,030 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 12:53:40,030 : root : Enter the function which gives sum of list elements
+[DEBUG]: 2022-07-03 12:53:40,030 : root : Result of the function given below
+[INFO]: 2022-07-03 12:53:40,030 : root : 215
+[INFO]: 2022-07-03 12:53:40,030 : root : Enter the function which extract elements from list
+[DEBUG]: 2022-07-03 12:53:40,030 : root : Result of the function given below
+[INFO]: 2022-07-03 12:54:52,003 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 12:54:52,003 : root : Enter the function which reverse list
+[DEBUG]: 2022-07-03 12:54:52,003 : root : Result of the function given below
+[INFO]: 2022-07-03 12:54:52,003 : root : [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+[INFO]: 2022-07-03 12:54:52,003 : root : Enter the function which extract only lists
+[DEBUG]: 2022-07-03 12:54:52,003 : root : Result of the function given below
+[DEBUG]: 2022-07-03 12:54:52,003 : root : [[23, 456, 67, 8, 78, 78]]
+[DEBUG]: 2022-07-03 12:54:52,003 : root : [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]
+[INFO]: 2022-07-03 12:54:52,003 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 12:54:52,003 : root : Enter the function which gives sum of list elements
+[DEBUG]: 2022-07-03 12:54:52,003 : root : Result of the function given below
+[INFO]: 2022-07-03 12:54:52,003 : root : 215
+[INFO]: 2022-07-03 12:55:25,537 : root : Enter the function which extract elements from list
+[DEBUG]: 2022-07-03 12:55:29,728 : root : Result of the function given below
+[INFO]: 2022-07-03 12:55:49,172 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 12:55:49,172 : root : Enter the function which reverse list
+[DEBUG]: 2022-07-03 12:55:49,172 : root : Result of the function given below
+[INFO]: 2022-07-03 12:55:49,172 : root : [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+[INFO]: 2022-07-03 12:55:49,172 : root : Enter the function which extract only lists
+[DEBUG]: 2022-07-03 12:55:49,172 : root : Result of the function given below
+[DEBUG]: 2022-07-03 12:55:49,172 : root : [[23, 456, 67, 8, 78, 78]]
+[DEBUG]: 2022-07-03 12:55:49,172 : root : [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]
+[INFO]: 2022-07-03 12:55:49,172 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 12:55:49,172 : root : Enter the function which gives sum of list elements
+[DEBUG]: 2022-07-03 12:55:49,172 : root : Result of the function given below
+[INFO]: 2022-07-03 12:55:49,172 : root : 215
+[INFO]: 2022-07-03 12:55:58,165 : root : Enter the function which extract elements from list
+[DEBUG]: 2022-07-03 12:55:59,277 : root : Result of the function given below
+[INFO]: 2022-07-03 12:56:55,561 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 12:56:55,561 : root : Enter the function which reverse list
+[DEBUG]: 2022-07-03 12:56:55,561 : root : Result of the function given below
+[INFO]: 2022-07-03 12:56:55,561 : root : [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+[INFO]: 2022-07-03 12:56:55,561 : root : Enter the function which extract only lists
+[DEBUG]: 2022-07-03 12:56:55,561 : root : Result of the function given below
+[DEBUG]: 2022-07-03 12:56:55,561 : root : [[23, 456, 67, 8, 78, 78]]
+[DEBUG]: 2022-07-03 12:56:55,561 : root : [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]
+[INFO]: 2022-07-03 12:56:55,561 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 12:56:55,561 : root : Enter the function which gives sum of list elements
+[DEBUG]: 2022-07-03 12:56:55,561 : root : Result of the function given below
+[INFO]: 2022-07-03 12:56:55,576 : root : 215
+[INFO]: 2022-07-03 12:56:55,576 : root : Enter the function which extract elements from list
+[DEBUG]: 2022-07-03 12:56:55,576 : root : Result of the function given below
+[DEBUG]: 2022-07-03 12:56:55,576 : root : 23
+[INFO]: 2022-07-03 13:01:03,428 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 13:01:03,444 : root : Enter the function which reverse list
+[DEBUG]: 2022-07-03 13:01:03,444 : root : Result of the function given below
+[INFO]: 2022-07-03 13:01:03,444 : root : [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+[INFO]: 2022-07-03 13:01:03,444 : root : Enter the function which extract only lists
+[DEBUG]: 2022-07-03 13:01:03,444 : root : Result of the function given below
+[DEBUG]: 2022-07-03 13:01:03,444 : root : [[23, 456, 67, 8, 78, 78]]
+[DEBUG]: 2022-07-03 13:01:03,444 : root : [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]
+[INFO]: 2022-07-03 13:01:03,444 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 13:01:03,444 : root : Enter the function which gives sum of list elements
+[DEBUG]: 2022-07-03 13:01:03,444 : root : Result of the function given below
+[INFO]: 2022-07-03 13:01:03,444 : root : 215
+[INFO]: 2022-07-03 13:01:07,941 : root : Enter the function which extract elements from list
+[DEBUG]: 2022-07-03 13:01:08,838 : root : Result of the function given below
+[DEBUG]: 2022-07-03 13:01:38,296 : root : 23
+[INFO]: 2022-07-03 13:02:23,229 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 13:02:23,229 : root : Enter the function which reverse list
+[DEBUG]: 2022-07-03 13:02:23,229 : root : Result of the function given below
+[INFO]: 2022-07-03 13:02:23,229 : root : [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+[INFO]: 2022-07-03 13:02:23,229 : root : Enter the function which extract only lists
+[DEBUG]: 2022-07-03 13:02:23,229 : root : Result of the function given below
+[DEBUG]: 2022-07-03 13:02:23,229 : root : [[23, 456, 67, 8, 78, 78]]
+[DEBUG]: 2022-07-03 13:02:23,229 : root : [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]
+[INFO]: 2022-07-03 13:02:23,229 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 13:02:23,229 : root : Enter the function which gives sum of list elements
+[DEBUG]: 2022-07-03 13:02:23,229 : root : Result of the function given below
+[INFO]: 2022-07-03 13:02:23,229 : root : 215
+[INFO]: 2022-07-03 13:02:23,229 : root : Enter the function which extract elements from list
+[DEBUG]: 2022-07-03 13:02:23,229 : root : Result of the function given below
+[DEBUG]: 2022-07-03 13:02:23,229 : root : 456
+[INFO]: 2022-07-03 13:04:53,877 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 13:04:53,877 : root : Enter the function which reverse list
+[DEBUG]: 2022-07-03 13:04:53,877 : root : Result of the function given below
+[INFO]: 2022-07-03 13:04:53,877 : root : [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+[INFO]: 2022-07-03 13:04:53,877 : root : Enter the function which extract only lists
+[DEBUG]: 2022-07-03 13:04:53,877 : root : Result of the function given below
+[DEBUG]: 2022-07-03 13:04:53,877 : root : [[23, 456, 67, 8, 78, 78]]
+[DEBUG]: 2022-07-03 13:04:53,877 : root : [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]
+[INFO]: 2022-07-03 13:04:53,877 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 13:04:53,877 : root : Enter the function which gives sum of list elements
+[DEBUG]: 2022-07-03 13:04:53,877 : root : Result of the function given below
+[INFO]: 2022-07-03 13:04:53,877 : root : 215
+[INFO]: 2022-07-03 13:04:53,877 : root : Enter the function which extract elements from list
+[DEBUG]: 2022-07-03 13:04:53,877 : root : Result of the function given below
+[DEBUG]: 2022-07-03 13:04:53,893 : root : Given element present in the list[23, 456, 67, 8, 78, 78]
+[INFO]: 2022-07-03 13:07:15,360 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 13:07:15,360 : root : Enter the function which reverse list
+[DEBUG]: 2022-07-03 13:07:15,360 : root : Result of the function given below
+[INFO]: 2022-07-03 13:07:15,360 : root : [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+[INFO]: 2022-07-03 13:07:15,360 : root : Enter the function which extract only lists
+[DEBUG]: 2022-07-03 13:07:15,360 : root : Result of the function given below
+[DEBUG]: 2022-07-03 13:07:15,360 : root : [[23, 456, 67, 8, 78, 78]]
+[DEBUG]: 2022-07-03 13:07:15,360 : root : [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]
+[INFO]: 2022-07-03 13:07:15,360 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 13:07:15,360 : root : Enter the function which gives sum of list elements
+[DEBUG]: 2022-07-03 13:07:15,360 : root : Result of the function given below
+[INFO]: 2022-07-03 13:07:15,360 : root : 215
+[INFO]: 2022-07-03 13:07:15,360 : root : Enter the function which extract elements from list
+[DEBUG]: 2022-07-03 13:07:15,360 : root : Result of the function given below
+[DEBUG]: 2022-07-03 13:07:15,360 : root : Given element present in the list[23, 456, 67, 8, 78, 78]
+[INFO]: 2022-07-03 13:07:15,360 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 13:07:15,360 : root : Enter the function which extract only lists
+[DEBUG]: 2022-07-03 13:07:15,360 : root : Result of the function given below
+[DEBUG]: 2022-07-03 13:07:15,360 : root : [[1, 2, 3, 4]]
+[DEBUG]: 2022-07-03 13:07:15,360 : root : [[1, 2, 3, 4], ['ineuron', 'data science']]

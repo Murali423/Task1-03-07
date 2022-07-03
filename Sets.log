@@ -1,0 +1,12 @@
+[INFO]: 2022-07-03 13:59:49,908 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 13:59:49,908 : root : Enter the function which gives set from given list
+[DEBUG]: 2022-07-03 13:59:49,908 : root : Result of the function given below
+[INFO]: 2022-07-03 13:59:49,908 : root : {45, 4, 5, 23}
+[INFO]: 2022-07-03 14:17:13,793 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 14:17:13,793 : root : Enter the function which gives set from given list
+[DEBUG]: 2022-07-03 14:17:13,793 : root : Result of the function given below
+[INFO]: 2022-07-03 14:17:13,793 : root : {45, 4, 5, 23}
+[INFO]: 2022-07-03 14:17:13,793 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 14:17:13,793 : root : Enter the function which gives unique elements
+[DEBUG]: 2022-07-03 14:17:13,793 : root : Result of the function given below
+[INFO]: 2022-07-03 14:17:13,793 : root : {2, 4}

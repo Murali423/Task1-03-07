@@ -1,0 +1,12 @@
+[INFO]: 2022-07-03 14:53:08,757 : root : Enter the function which gives tuple from given list
+[DEBUG]: 2022-07-03 14:53:08,757 : root : Result of the function given below
+[ERROR]: 2022-07-03 14:53:08,757 : root : 'Dicts' object has no attribute 'tuples'
+[INFO]: 2022-07-03 14:53:08,757 : root : Enter the function which gives tuple from given list
+[DEBUG]: 2022-07-03 14:53:08,757 : root : Result of the function given below
+[INFO]: 2022-07-03 14:53:08,757 : root : [('k1', 'sudh'), ('k2', 'ineuron'), ('k3', 'kumar'), (3, 6), (7, 8)]
+[INFO]: 2022-07-03 14:53:28,243 : root : Enter the function which gives tuple from given list
+[DEBUG]: 2022-07-03 14:53:28,243 : root : Result of the function given below
+[ERROR]: 2022-07-03 14:53:28,243 : root : 'Dicts' object has no attribute 'tuples'
+[INFO]: 2022-07-03 14:53:28,243 : root : Enter the function which gives tuple from given list
+[DEBUG]: 2022-07-03 14:53:28,243 : root : Result of the function given below
+[INFO]: 2022-07-03 14:53:28,243 : root : [('k1', 'sudh'), ('k2', 'ineuron'), ('k3', 'kumar'), (3, 6), (7, 8)]

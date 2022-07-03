@@ -1,0 +1,201 @@
+[DEBUG]: 2022-07-02 22:49:08,526: root:string index out of range
+[INFO]: 2022-07-02 22:59:51,853: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 22:59:51,853: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:01:30,024: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:01:30,024: root:tssyityopgmncsa alrNph rgni ni
+[INFO]: 2022-07-02 23:01:30,024: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:01:30,024: root:TssNr s
+[INFO]: 2022-07-02 23:02:31,013: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:02:31,028: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:03:03,520: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:03:03,520: root:Result of the function is: tssyityopgmncsa alrNph rgni ni
+[INFO]: 2022-07-02 23:03:03,520: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:03:03,520: root:Result of the function is: TssNr s
+[INFO]: 2022-07-02 23:06:01,679: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:06:01,679: root:Result of the function is: tssyityopgmncsa alrNph rgni ni
+[INFO]: 2022-07-02 23:06:01,679: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:06:01,679: root:Result of the function is: TssNr s
+[INFO]: 2022-07-02 23:06:01,679: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:06:01,679: root:Result of the function is: noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+[INFO]: 2022-07-02 23:06:01,679: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:06:01,679: root:Result of the function is: ksaT norueNi si sihT
+[INFO]: 2022-07-02 23:09:05,201: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:09:05,201: root:Result of the function is: tssyityopgmncsa alrNph rgni ni
+[INFO]: 2022-07-02 23:09:05,201: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:09:05,201: root:Result of the function is: TssNr s
+[INFO]: 2022-07-02 23:09:05,201: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:09:05,201: root:Result of the function is: noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+[INFO]: 2022-07-02 23:09:05,201: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:09:05,201: root:Result of the function is: ksaT norueNi si sihT
+[INFO]: 2022-07-02 23:09:05,201: root:Enter the slicing operation for 0 to 300 with step size 3
+[ERROR]: 2022-07-02 23:09:05,201: root:can only concatenate str (not "list") to str
+[INFO]: 2022-07-02 23:09:05,201: root:Enter the slicing operation for 0 to 300 with step size 3
+[ERROR]: 2022-07-02 23:09:05,201: root:can only concatenate str (not "list") to str
+[INFO]: 2022-07-02 23:15:18,104: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:15:18,166: root:Result of the function is: tssyityopgmncsa alrNph rgni ni
+[INFO]: 2022-07-02 23:15:18,166: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:15:18,166: root:Result of the function is: TssNr s
+[INFO]: 2022-07-02 23:15:18,166: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:15:18,166: root:Result of the function is: noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+[INFO]: 2022-07-02 23:15:18,166: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:15:18,166: root:Result of the function is: ksaT norueNi si sihT
+[INFO]: 2022-07-02 23:15:18,166: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:15:18,166: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:15:18,166: root:['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+[INFO]: 2022-07-02 23:15:18,166: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:15:18,166: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:15:18,166: root:['THIS', 'IS', 'INEURON', 'TASK']
+[INFO]: 2022-07-02 23:17:01,721: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:17:01,721: root:Result of the function is: tssyityopgmncsa alrNph rgni ni
+[INFO]: 2022-07-02 23:17:01,721: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:17:01,721: root:Result of the function is: TssNr s
+[INFO]: 2022-07-02 23:17:01,721: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:17:01,721: root:Result of the function is: noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+[INFO]: 2022-07-02 23:17:01,721: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:17:01,721: root:Result of the function is: ksaT norueNi si sihT
+[INFO]: 2022-07-02 23:17:01,721: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:17:01,721: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:17:01,721: root:['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+[INFO]: 2022-07-02 23:17:01,721: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:17:01,721: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:17:01,721: root:['THIS', 'IS', 'INEURON', 'TASK']
+[INFO]: 2022-07-02 23:17:01,721: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:17:01,721: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:17:01,721: root:this is my first python programming class and i am learning python string and its function
+[INFO]: 2022-07-02 23:17:01,721: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:17:01,721: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:17:01,721: root:this is ineuron task
+[INFO]: 2022-07-02 23:20:31,815: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:20:31,815: root:Result of the function is: tssyityopgmncsa alrNph rgni ni
+[INFO]: 2022-07-02 23:20:31,815: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:20:31,815: root:Result of the function is: TssNr s
+[INFO]: 2022-07-02 23:20:31,815: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:20:31,815: root:Result of the function is: noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+[INFO]: 2022-07-02 23:20:31,815: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:20:31,815: root:Result of the function is: ksaT norueNi si sihT
+[INFO]: 2022-07-02 23:20:31,815: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:20:31,815: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:20:31,815: root:['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+[INFO]: 2022-07-02 23:20:31,815: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:20:31,815: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:20:31,815: root:['THIS', 'IS', 'INEURON', 'TASK']
+[INFO]: 2022-07-02 23:20:31,815: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:20:31,815: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:20:31,815: root:this is my first python programming class and i am learning python string and its function
+[INFO]: 2022-07-02 23:20:31,815: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:20:31,815: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:20:31,815: root:this is ineuron task
+[INFO]: 2022-07-02 23:20:31,815: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:20:31,815: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:20:31,815: root:This is my first python programming class and i am learning python string and its function
+[INFO]: 2022-07-02 23:20:31,815: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:20:31,815: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:20:31,815: root:This is ineuron task
+[INFO]: 2022-07-02 23:30:59,512: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:30:59,512: root:Result of the function is: tssyityopgmncsa alrNph rgni ni
+[INFO]: 2022-07-02 23:30:59,512: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:30:59,512: root:Result of the function is: TssNr s
+[INFO]: 2022-07-02 23:30:59,512: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:30:59,512: root:Result of the function is: noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+[INFO]: 2022-07-02 23:30:59,512: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:30:59,512: root:Result of the function is: ksaT norueNi si sihT
+[INFO]: 2022-07-02 23:30:59,512: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:30:59,512: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:30:59,512: root:['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+[INFO]: 2022-07-02 23:30:59,512: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:30:59,512: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:30:59,512: root:['THIS', 'IS', 'INEURON', 'TASK']
+[INFO]: 2022-07-02 23:30:59,512: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:30:59,512: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:30:59,512: root:this is my first python programming class and i am learning python string and its function
+[INFO]: 2022-07-02 23:30:59,512: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:30:59,512: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:30:59,512: root:this is ineuron task
+[INFO]: 2022-07-02 23:30:59,512: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:30:59,512: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:30:59,512: root:This is my first python programming class and i am learning python string and its function
+[INFO]: 2022-07-02 23:30:59,512: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:30:59,512: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:30:59,512: root:This is ineuron task
+[INFO]: 2022-07-02 23:30:59,512: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:30:59,512: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:30:59,512: root:This is iNeuron Platform we build our career
+[INFO]: 2022-07-02 23:30:59,512: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:30:59,512: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:30:59,512: root:This is iNeuron Platform we build our career    
+[INFO]: 2022-07-02 23:30:59,512: root:Enter the slicing operation for 0 to 300 with step size 3
+[INFO]: 2022-07-02 23:30:59,512: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:30:59,512: root:     This is iNeuron Platform we build our career
+[INFO]: 2022-07-02 23:34:41,081: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:34:41,081: root:Result of the function is: tssyityopgmncsa alrNph rgni ni
+[INFO]: 2022-07-02 23:34:41,081: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:34:41,081: root:Result of the function is: TssNr s
+[INFO]: 2022-07-02 23:34:41,081: root:Enter into the reverse of string function
+[DEBUG]: 2022-07-02 23:34:41,081: root:Result of the function is: noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+[INFO]: 2022-07-02 23:34:41,081: root:Enter into the reverse of string function
+[DEBUG]: 2022-07-02 23:34:41,081: root:Result of the function is: ksaT norueNi si sihT
+[INFO]: 2022-07-02 23:34:41,081: root:Enter into the split with upper of string function
+[INFO]: 2022-07-02 23:34:41,081: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:34:41,081: root:['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+[INFO]: 2022-07-02 23:34:41,081: root:Enter into the split with upper of string function
+[INFO]: 2022-07-02 23:34:41,081: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:34:41,081: root:['THIS', 'IS', 'INEURON', 'TASK']
+[INFO]: 2022-07-02 23:34:41,081: root:Enter into the lower of string function
+[INFO]: 2022-07-02 23:34:41,081: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:34:41,081: root:this is my first python programming class and i am learning python string and its function
+[INFO]: 2022-07-02 23:34:41,081: root:Enter into the lower of string function
+[INFO]: 2022-07-02 23:34:41,081: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:34:41,081: root:this is ineuron task
+[INFO]: 2022-07-02 23:34:41,081: root:Enter into the  capitalize of string function
+[INFO]: 2022-07-02 23:34:41,081: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:34:41,081: root:This is my first python programming class and i am learning python string and its function
+[INFO]: 2022-07-02 23:34:41,081: root:Enter into the  capitalize of string function
+[INFO]: 2022-07-02 23:34:41,081: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:34:41,081: root:This is ineuron task
+[INFO]: 2022-07-02 23:34:41,081: root:Enter into the strip of string function
+[INFO]: 2022-07-02 23:34:41,081: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:34:41,081: root:This is iNeuron Platform we build our career
+[INFO]: 2022-07-02 23:34:41,081: root:Enter into the lstrip of string function
+[INFO]: 2022-07-02 23:34:41,081: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:34:41,081: root:This is iNeuron Platform we build our career    
+[INFO]: 2022-07-02 23:34:41,081: root:Enter into the rstrip of string function
+[INFO]: 2022-07-02 23:34:41,081: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:34:41,081: root:     This is iNeuron Platform we build our career
+[INFO]: 2022-07-02 23:42:21,581: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:42:21,597: root:Result of the function is: tssyityopgmncsa alrNph rgni ni
+[INFO]: 2022-07-02 23:42:21,597: root:Enter the slicing operation for 0 to 300 with step size 3
+[DEBUG]: 2022-07-02 23:42:21,597: root:Result of the function is: TssNr s
+[INFO]: 2022-07-02 23:42:21,597: root:Enter into the reverse of string function
+[DEBUG]: 2022-07-02 23:42:21,597: root:Result of the function is: noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+[INFO]: 2022-07-02 23:42:21,597: root:Enter into the reverse of string function
+[DEBUG]: 2022-07-02 23:42:21,597: root:Result of the function is: ksaT norueNi si sihT
+[INFO]: 2022-07-02 23:42:21,597: root:Enter into the split with upper of string function
+[INFO]: 2022-07-02 23:42:21,597: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:42:21,597: root:['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+[INFO]: 2022-07-02 23:42:21,597: root:Enter into the split with upper of string function
+[INFO]: 2022-07-02 23:42:21,597: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:42:21,597: root:['THIS', 'IS', 'INEURON', 'TASK']
+[INFO]: 2022-07-02 23:42:21,597: root:Enter into the lower of string function
+[INFO]: 2022-07-02 23:42:21,597: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:42:21,597: root:this is my first python programming class and i am learning python string and its function
+[INFO]: 2022-07-02 23:42:21,597: root:Enter into the lower of string function
+[INFO]: 2022-07-02 23:42:21,597: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:42:21,597: root:this is ineuron task
+[INFO]: 2022-07-02 23:42:21,597: root:Enter into the  capitalize of string function
+[INFO]: 2022-07-02 23:42:21,597: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:42:21,597: root:This is my first python programming class and i am learning python string and its function
+[INFO]: 2022-07-02 23:42:21,597: root:Enter into the  capitalize of string function
+[INFO]: 2022-07-02 23:42:21,597: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:42:21,597: root:This is ineuron task
+[INFO]: 2022-07-02 23:42:21,597: root:Enter into the strip of string function
+[INFO]: 2022-07-02 23:42:21,597: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:42:21,597: root:This is iNeuron Platform we build our career
+[INFO]: 2022-07-02 23:42:21,597: root:Enter into the lstrip of string function
+[INFO]: 2022-07-02 23:42:21,597: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:42:21,597: root:This is iNeuron Platform we build our career    
+[INFO]: 2022-07-02 23:42:21,597: root:Enter into the rstrip of string function
+[INFO]: 2022-07-02 23:42:21,597: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:42:21,597: root:     This is iNeuron Platform we build our career
+[INFO]: 2022-07-02 23:42:21,597: root:Enter into the centering of string function
+[INFO]: 2022-07-02 23:42:21,597: root:Result of Function given below 
+[DEBUG]: 2022-07-02 23:42:21,597: root:***************This is iNeuron Task***************

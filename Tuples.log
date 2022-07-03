@@ -1,0 +1,20 @@
+[INFO]: 2022-07-03 14:24:24,701 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 14:24:24,701 : root : Enter the function which gives tuple from given list
+[DEBUG]: 2022-07-03 14:24:24,701 : root : Result of the function given below
+[DEBUG]: 2022-07-03 14:24:24,701 : root : (2, 3, 4, 5, 6)
+[INFO]: 2022-07-03 14:26:27,078 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 14:26:27,080 : root : Enter the function which gives tuple from given list
+[DEBUG]: 2022-07-03 14:26:27,080 : root : Result of the function given below
+[DEBUG]: 2022-07-03 14:26:27,080 : root : [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+[INFO]: 2022-07-03 14:34:09,299 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 14:34:09,299 : root : Enter the function which gives tuple from given list
+[DEBUG]: 2022-07-03 14:34:09,299 : root : Result of the function given below
+[DEBUG]: 2022-07-03 14:34:09,299 : root : [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+[INFO]: 2022-07-03 14:34:22,975 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 14:34:22,975 : root : Enter the function which gives tuple from given list
+[DEBUG]: 2022-07-03 14:34:22,975 : root : Result of the function given below
+[DEBUG]: 2022-07-03 14:34:22,975 : root : [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+[INFO]: 2022-07-03 14:34:22,975 : root : Class initialization started. data added to constructor
+[INFO]: 2022-07-03 14:34:22,975 : root : Enter the function which gives range of elements in tuple
+[DEBUG]: 2022-07-03 14:34:22,975 : root : Result of the function given below
+[INFO]: 2022-07-03 14:34:22,975 : root : (3, 4, 5, 6, 7)
